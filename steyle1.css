@@ -1,0 +1,141 @@
+/*--------------------------------racponsive-----------*/
+@media screen and (max-width:600px) {
+
+
+
+    body{
+        margin: auto;
+    }
+
+    .main-nav{
+    display: flex;
+    flex-direction:column;
+    justify-content:center;
+
+}
+.input-fild{
+    flex-direction: column;
+    margin: auto;
+    justify-content: center;
+    display: flex;
+
+  width: auto;
+    
+    }
+
+.input-main{
+          width:auto;
+    height:auto;
+        
+
+}
+
+.hader-main{
+    width: 100%;
+    height: auto;
+}
+
+.main-decptio{
+    font-size: 14px;
+    line-height: 21px;
+}
+
+.main-title{
+    font-size: 24px;
+    font-weight: 800px;
+ 
+  
+  
+}
+
+
+.fast-section{
+ width:100%;
+    flex-direction:column;
+    gap: 53px;
+    margin: 50px auto;
+    justify-content: center;
+}
+
+.fast-contect{
+    width:100%;
+}
+
+
+.fast-img img{
+    width: 100%;
+}
+
+.card{
+    flex-direction: column;
+    text-align: center;
+    width: 100%;
+    height: auto;
+}
+
+
+.card1{
+    width: 100%;
+    padding: 5px;
+}
+
+.card2{
+    width: 100%;
+    padding: 5px;
+}
+.card3{
+    width: 100%;
+    padding: 5px;
+}
+
+.Discount1{
+display: flex;
+    align-items: center;
+text-align: center;
+    display: flex;
+    width: 100%;
+    height: 500px;
+    background-image: url('Rectangle\ 12\ \(1\).png');
+    background-repeat: no-repeat;
+    background-position: center;
+    border-radius: 10px;
+ margin: auto;
+    justify-content: center;
+}
+
+.card1-discounts{
+
+   justify-content: center;
+    background-color: rgba(255, 255, 255, 0.726);
+    border-radius: 10px;
+
+
+ 
+ 
+   
+}
+
+.vid{
+    display: flex;
+    justify-content: center;
+    gap:20px;
+    flex-direction:column;
+    margin: 50px auto;
+    width:100%;
+    padding: 5px;
+  
+}
+.video-content{
+  padding: 10px;
+    justify-content:center;
+    margin: auto;
+    width:100%;
+    padding: 0%;
+    margin: 0%;
+}
+.in-container{
+    flex-direction: column;
+    width: 100%;
+}
+
+}
